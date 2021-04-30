@@ -1,6 +1,6 @@
 ### print ("Hello World")
 
-<img align="right" alt="img" src="https://raw.githubusercontent.com/AleexSilva/AleexSilva/main/D%20E%20S%20I%20G%20N%20E%20R.png" width="60%" height="280" />
+<img align="right" alt="img" src="https://raw.githubusercontent.com/AleexSilva/AleexSilva/main/D%20E%20S%20I%20G%20N%20E%20R.png" width="50%" height="280" />
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AleexSilva)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleex-silva)
