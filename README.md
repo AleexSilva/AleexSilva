@@ -13,6 +13,13 @@ Welcome to my Github page! I am Alex and I am currently working as a Data Scienc
 
 <br />
 
+#### 😉 About Me: 
+
+- I love performing magic ♤.
+- I play tennis once a week. 🎾
+- I like playing chess. ♛
+- i'm fast solving rubik's cubes.
+
 
 #### 🌱 Things I am currently working on: 
 
