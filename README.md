@@ -27,13 +27,44 @@ Welcome to my Github page! I am Alex and I am currently working as a Data Scienc
 - Improving my CV with some education apart from university
 
 ####  Programming languages and tools: 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+	      <span><strong>Python</strong></span><br><br><br>
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+      </td>
+      <td width="25%" align="center">
+	      <span><strong>AWS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>R Studio</strong></span><br><br><br>
+        <img height="100px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Django</strong></span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
+      </td>
+     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Spark</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>MongoDB</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>My SQL</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Vs Code</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-
-
-<code><img width="" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-
-<code><img width="" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  </tbody>
+</table>
