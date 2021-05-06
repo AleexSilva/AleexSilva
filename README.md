@@ -32,19 +32,19 @@ Welcome to my Github page! I am Alex and I am currently working as a Data Scienc
     <tr valign="top">
       <td width="25%" align="center">
 	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+        <img height="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
       </td>
       <td width="25%" align="center">
 	      <span><strong>AWS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>R Studio</strong></span><br><br><br>
-        <img height="100px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
+        <img height="64px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
+        <span><strong>Tableau</strong></span><br><br><br>
+        <img height="75px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU80CQ8c-_IxxPCSakZEeNuOwJwVqUujaTxur1Y3Sfzlwt_ntRNmzjI-SueNJg-UXkn2w&usqp=CAU">
       </td>
      </tr>
     <tr valign="top">
@@ -53,8 +53,8 @@ Welcome to my Github page! I am Alex and I am currently working as a Data Scienc
         <img height="64px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>MongoDB</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+        <span><strong>JSON</strong></span><br><br><br>
+        <img height="64px" src="https://www.factor.mx/portal/wp-content/uploads/2018/11/json-logo-300x183.png">
       </td>
       <td width="25%" align="center">
         <span><strong>My SQL</strong></span><br><br><br>
