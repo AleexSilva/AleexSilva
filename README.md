@@ -1,6 +1,6 @@
 ### print ("Hello World")
 
-<img align="right" alt="img" src="https://raw.githubusercontent.com/AleexSilva/AleexSilva/main/Photo.jpg" width="45%" height="300" />
+<img align="right" alt="img" src="https://raw.githubusercontent.com/AleexSilva/AleexSilva/main/Photo.jpg" width="35%" height="200" />
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AleexSilva)
