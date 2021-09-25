@@ -16,11 +16,11 @@ Welcome to my Github page! I am Alex and I am currently working as a Data Scienc
 
 #### 😉 About Me: 
 
-- I love performing magic. ♤
-- I play tennis once a week. 🎾
+- Love performing magic. ♤
+- Playing tennis once a week. 🎾
 - Star Wars fan.
-- I like playing chess. ♛
-- I'm fast solving rubik's cubes.
+- like playing chess. ♛
+- fast solving rubik's cubes.
 
 
 #### 🌱 Things I am currently working on: 
