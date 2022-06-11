@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:silva.alexis94@gmail.com)
 
 <br />
-Welcome to my Github page! I am Alex and I am currently working as a Data Science in Prudential.
+Welcome to my Github page! I am Alex and I am currently working as a Data Science in Azumo.
 <br />
 
 #### 😉 About Me: 
