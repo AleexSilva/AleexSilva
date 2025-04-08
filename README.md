@@ -58,7 +58,7 @@ Welcome to my GitHub page! I am Alex and I am currently working as a Data Scienc
      </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Spark</strong></span><br><br><br>
+        <span><strong>Apache Spark</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
       </td>
       <td width="25%" align="center">
@@ -71,7 +71,7 @@ Welcome to my GitHub page! I am Alex and I am currently working as a Data Scienc
       </td>
       <td width="25%" align="center">
         <span><strong>Apache Airflow</strong></span><br><br><br>
-        <img height="64px" src="https://www.bigdatawire.com/wp-content/uploads/2018/05/apache-airflow-300x232.png">
+        <img height="64px" src="[https://www.bigdatawire.com/wp-content/uploads/2018/05/apache-airflow-300x232.png](https://media.licdn.com/dms/image/v2/C4E12AQFol46eeOw7tw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1609364911502?e=1749686400&v=beta&t=GrVzhMzEbELtrdvdl6w6NlueDEaLvwbpb_y52T5qvLA)">
       </td>
     </tr>
 
