@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:silva.alexis94@gmail.com)
 
 <br />
-Welcome to my Github page! I am Alex and I am currently working as a Data Science in Azumo.
+Welcome to my GitHub page! I am Alex and I am currently working as a Data Science in Azumo.
 <br />
 
 #### 😉 About Me: 
@@ -26,9 +26,9 @@ Welcome to my Github page! I am Alex and I am currently working as a Data Scienc
 #### 🌱 Things I am currently working on: 
 
 - Taking online courses about Data Science and Machine Learning.
-- Making some proyects for fun (you can see all the proyects that I am developing in this repos!).
+- Making some projects for fun (you can see all the projects that I am developing in this repos!).
 - I am very proactive, neat and I like challenges.
-- Working on my thesis master degree.
+- Working on my thesis master's degree.
 
 ####  💪🏻 Things I am challenging myself with:
 - Coding at least 4 hours a day
