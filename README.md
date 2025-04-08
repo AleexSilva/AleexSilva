@@ -52,8 +52,8 @@ Welcome to my GitHub page! I am Alex and I am currently working as a Data Scienc
         <img height="64px" src="https://github.com/user-attachments/assets/eb6c1d42-f65a-472b-bcae-3f4e01925cb8">
       </td>
       <td width="25%" align="center">
-        <span><strong>Tableau</strong></span><br><br><br>
-        <img height="75px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU80CQ8c-_IxxPCSakZEeNuOwJwVqUujaTxur1Y3Sfzlwt_ntRNmzjI-SueNJg-UXkn2w&usqp=CAU">
+        <span><strong>Chatbot</strong></span><br><br><br>
+        <img height="75px" src="https://github.com/user-attachments/assets/de69237b-1e26-452b-9acb-09ce36a9cb3a">
       </td>
      </tr>
     <tr valign="top">
