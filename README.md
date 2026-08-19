@@ -41,7 +41,7 @@ Welcome to my GitHub page! I am Alex and I am currently working as a Data Conusl
     <tr valign="top">
       <td width="25%" align="center">
 	      <span><strong>Python</strong></span><br><br><br>
-        <img height="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+        <img height="65px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png](https://i.pinimg.com/736x/09/a5/f2/09a5f25cbdcdefa890e9201a7d43b9bf.jpg)">
       </td>
       <td width="25%" align="center">
 	      <span><strong>AWS</strong></span><br><br><br>
